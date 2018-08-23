@@ -1,0 +1,23 @@
+Exercise 1
+Write a C++ program that outputs the following text on screen:
+Oh what
+a happy day!
+Oh yes,
+what a happy day!
+Use the manipulator endl where appropriate.
+Exercise 2
+The following program contains several errors:
+*/ Now you should not forget your glasses //
+#include <stream>
+int main
+{
+cout << "If this text",
+cout >> " appears on your display, ";
+cout << " endl;"
+cout << 'you can pat yourself on '
+<< " the back!" << endl.
+return 0;
+)
+Resolve the errors and run the program to test your changes.
+Exercise 3
+What does the C++ program on the opposite page output on screen?
