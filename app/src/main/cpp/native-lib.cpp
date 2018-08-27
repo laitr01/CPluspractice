@@ -23,3 +23,4 @@ Java_com_bestapplication_cpluspractice_MainActivity_printf(
 ){
     printf("Hello from C++");
 }
+

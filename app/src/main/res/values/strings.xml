@@ -4,4 +4,6 @@
 
 <resources>
     <string name="app_name">CPlusPractice</string>
+    <string name="processing_started_message">Processing. It can take a while..</string>
+    <string name="processing_finished_message">Processing finished!</string>
 </resources>
